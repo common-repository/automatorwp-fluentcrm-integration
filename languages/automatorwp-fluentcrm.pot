@@ -1,0 +1,73 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AutomatorWP - FluentCRM\n"
+"Report-Msgid-Bugs-To: https://automatorwp.com/\n"
+"POT-Creation-Date: 2020-10-06 23:47+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: GamiPress (https://automatorwp.com/)\n"
+"Language-Team: GamiPress <contact@automatorwp.com>\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: automatorwp-fluentcrm.php:138
+#, php-format
+msgid "AutomatorWP - FluentCRM requires %s and %s in order to work. Please install and activate them."
+msgstr ""
+
+#: automatorwp-fluentcrm.php:151
+msgid "You can uninstall AutomatorWP - FluentCRM Integration because you already have the pro version installed and includes all the features of the free version."
+msgstr ""
+
+#: includes/actions/user-tag.php:27
+msgid "Add tag to user"
+msgstr ""
+
+#: includes/actions/user-tag.php:28
+msgid "Add <strong>tag</strong> to user"
+msgstr ""
+
+#: includes/actions/user-tag.php:30 includes/actions/user-tag.php:32
+#, php-format
+msgid "Add tag %1$s"
+msgstr ""
+
+#: includes/actions/user-tag.php:36
+msgid "Select a tag"
+msgstr ""
+
+#: includes/actions/user-tag.php:37 includes/triggers/tag-added.php:39
+msgid "Tag:"
+msgstr ""
+
+#: includes/functions.php:52 includes/triggers/tag-added.php:41
+msgid "any tag"
+msgstr ""
+
+#: includes/triggers/tag-added.php:26
+msgid "Tag added to user"
+msgstr ""
+
+#: includes/triggers/tag-added.php:27
+msgid "<strong>Tag</strong> added to user"
+msgstr ""
+
+#: includes/triggers/tag-added.php:29
+#, php-format
+msgid "%1$s added to user %2$s time(s)"
+msgstr ""
+
+#: includes/triggers/tag-added.php:31
+#, php-format
+msgid "%1$s added to user"
+msgstr ""
